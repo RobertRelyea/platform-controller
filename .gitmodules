@@ -1,0 +1,3 @@
+[submodule "pico-source/PicoQuickPID"]
+	path = pico-source/PicoQuickPID
+	url = git@github.com:RobertRelyea/PicoQuickPID.git
